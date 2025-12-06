@@ -59,7 +59,7 @@
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/GIDEON-BARRYMOORE-DANIEL/Cybersecurity-Home-Lab-Setup-Comprehensive-step-by-step-Guide-) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/GIDEON-BARRYMOORE-DANIEL/step-by-step-creation-of-a-small-active-directory-IAM-lab-using-windows-8.1-server.git) |
-| 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](#) |
+| 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/GIDEON-BARRYMOORE-DANIEL/aws-cloud-governance-iam-project) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
